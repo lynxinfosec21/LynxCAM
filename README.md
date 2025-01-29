@@ -11,12 +11,12 @@ LynxCAM offers several key features, including:
 User-centric dashboards display actionable insights and analytics. They feature customizable views and reports for in-depth understanding and decision-making.  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/575e3a55-b583-463c-98b9-bf4809787b07" alt="Main Dashboard" width="80%">
+    <img src="https://github.com/user-attachments/assets/37ab02b3-685d-4394-9c56-d706b855b038" alt="Main Dashboard" width="80%">
     <p><i>Figure 1: Main Dashboard displaying key insights</i></p>
 </div>  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/edd12078-c046-49e5-8fd3-95cdfb33cc22" alt="Administrator Dashboard" width="80%">
+    <img src="https://github.com/user-attachments/assets/bb8edac6-2a97-4350-b547-4249615cd445" alt="Administrator Dashboard" width="80%">
     <p><i>Figure 2: Administrator Dashboard</i></p>
 </div>  
 
@@ -24,7 +24,7 @@ User-centric dashboards display actionable insights and analytics. They feature 
 LynxCAM leverages advanced AI algorithms and computer vision technology to analyze video streams accurately. It provides automated detection and classification of activities and individuals.  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/c16f3d1e-ac8b-4580-8533-9ffab37639da" alt="Person Detection">
+    <img src="https://github.com/user-attachments/assets/441fcf26-598e-4820-997f-ac28ed1870e4" alt="Person Detection">
     <p><i>Figure 3: Person Detection using AI and Computer Vision</i></p>
 </div>  
 
@@ -32,12 +32,12 @@ LynxCAM leverages advanced AI algorithms and computer vision technology to analy
 Identifies and logs repeat customers to enhance customer service and security. Facilitates personalized experiences and efficient tracking of known individuals.  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/1b70bb54-67bd-484e-9375-311718535c99" alt="New Visit Detection">
+    <img src="https://github.com/user-attachments/assets/d5822829-a6bf-4d37-ab43-3a4f0611ac1f" alt="New Visit Detection">
     <p><i>Figure 4: New Visit Detection</i></p>
 </div>  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/9f43a857-de7b-43e4-9823-d3a75633ff70" alt="Multiple Visit Detection">
+    <img src="https://github.com/user-attachments/assets/e5559fd8-2761-4ebf-b3c8-0569ce913ef7" alt="Multiple Visit Detection">
     <p><i>Figure 5: Multiple Visit Detection</i></p>
 </div>  
 
@@ -45,7 +45,7 @@ Identifies and logs repeat customers to enhance customer service and security. F
 Accurately determines the gender of individuals within video streams.  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/7537133f-cfcf-4f22-b558-8ae5d5845424" alt="Gender Statistics">
+    <img src="https://github.com/user-attachments/assets/f19954cf-8fc0-497a-a708-1c0153cac1ed" alt="Gender Statistics">
     <p><i>Figure 6: Gender Statistics</i></p>
 </div>  
 
@@ -53,7 +53,7 @@ Accurately determines the gender of individuals within video streams.
 Automatically counts the number of customers entering and exiting the premises. Provides footfall analytics to gauge customer volume and peak times.  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/7776554c-7c65-438e-a465-f40eb2d29d09" alt="Customer Statistics">
+    <img src="https://github.com/user-attachments/assets/c18b0310-2272-46fd-a802-f652ad18bb16" alt="Customer Statistics">
     <p><i>Figure 7: Customer Statistics</i></p>
 </div>  
 
@@ -61,12 +61,12 @@ Automatically counts the number of customers entering and exiting the premises. 
 Detects and analyzes group activities within video streams.  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/2a8b36b4-1cf9-40f0-84a6-b7a50bd0b89e" alt="Visitor Statistics">
+    <img src="https://github.com/user-attachments/assets/03a2b6cc-f971-43ec-bf9c-f1fe5ae7a45e" alt="Visitor Statistics">
     <p><i>Figure 8: Visitor Statistics</i></p>
 </div>  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/90cbb8bf-df49-4418-ac37-d862a9f11b28" alt="Visitors Table">
+    <img src="https://github.com/user-attachments/assets/e279dbb6-7286-464f-ae2d-12383aea427e" alt="Visitors Table">
     <p><i>Figure 9: Visitors Table</i></p>
 </div>  
 
@@ -74,11 +74,11 @@ Detects and analyzes group activities within video streams.
 Visualizes customer traffic patterns and optimizes store layouts with advanced, data-driven insights. This tool enhances strategic decision-making by mapping high-traffic areas and customer behavior trends.  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/ac218b31-3a32-4a07-97d4-4a87757eb439" alt="Heatmap">
+    <img src="https://github.com/user-attachments/assets/851733fe-f20e-4ac2-8ec4-d3977e8336a1" alt="Heatmap">
     <p><i>Figure 10: Heatmap</i></p>
 </div>  
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/459c9867-955e-4cf8-b69c-d66136d4e241" alt="Footfall">
+    <img src="https://github.com/user-attachments/assets/8ad1c73c-03a5-4b17-8d4b-3eb024978911" alt="Footfall">
     <p><i>Figure 11: Footfall</i></p>
 </div> 
